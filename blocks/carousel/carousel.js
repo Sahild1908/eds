@@ -75,6 +75,4 @@ export default function decorate(block) {
     slide.style.transform = `translateX(${100 * (indx - curSlide)}%)`;
   });
   });
-
-
   }
